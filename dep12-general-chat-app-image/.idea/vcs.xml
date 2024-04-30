@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../Intellij-Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../git-demos/hello-git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../git-demos/hello-git-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hello-git-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../java-fx/0-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../ems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../object-oriented-programming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../programming-fundamentals/pf-3/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../programming-fundamentals/pf-4/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../programming-fundamentals/pf-6/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../programming-fundamentals/pf-7/src" vcs="Git" />
+  </component>
+</project>

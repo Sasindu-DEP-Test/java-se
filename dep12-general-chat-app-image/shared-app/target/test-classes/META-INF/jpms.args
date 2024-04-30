@@ -1,0 +1,4 @@
+--patch-module
+lk.ijse.dep12.shared=_
+--add-reads
+lk.ijse.dep12.shared=ALL-UNNAMED
